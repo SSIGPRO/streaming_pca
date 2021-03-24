@@ -128,7 +128,7 @@ int main(void)
   MX_USART3_UART_Init();
   /* USER CODE BEGIN 2 */
 
-  // Initialization
+  // Input-Output initialization
   ext_set_print(print_stream);
   ext_set_scan(scan_stream);
 
